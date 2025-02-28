@@ -1,0 +1,69 @@
+.title {
+    color: green;
+}
+.image1 {
+    text-align-last: center;
+
+}
+.text1 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: -20px;
+    filter: drop-shadow(0 0 10px #00BFFF);
+color: #FFFFFF;
+}
+
+body {
+     background-image: url('fon.jpg');
+            background-size: cover; /* Покрывает весь экран */
+            background-repeat: no-repeat; /* Не повторять изображение */
+            background-position: center; /* Центрировать изображение */
+}
+.glavnya {
+    text-align: center;
+    font-size: 25px;
+    margin-left: -200px;
+    color: #87CEEB;
+}
+.podrobno {
+    text-align: center;
+    font-size: 25px;
+    margin-top: -28px;
+    margin-right: -60px;
+    color: #87CEEB;
+}
+.contact {
+    text-align: center;
+    font-size: 25px;
+    margin-top: -28px;
+    margin-right: -330px;
+    color: #87CEEB;
+}
+.card {
+  background-color: red;
+  box-shadow: 0 4px 6px red;
+  width: 300px;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 16px;
+}
+.container {
+      width: 80%;
+      max-width: 900px; /* Добавил ограничение по ширине */
+      margin: 20px auto;
+      padding: 60px;
+      background-color: #1E90FF; /* Чёрный прозрачный фон для основного контейнера */
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+      color: #fff;
+}
+a {
+  text-decoration: none;
+    color: inherit;
+}
+h1 {
+    font-size: 25px;
+}
+.address {
+font-size: 30px;
+}
